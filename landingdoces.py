@@ -1,5 +1,5 @@
 import streamlit as st
-from streamlit_ace import st_ace
+
 
 # Configuração da página
 st.set_page_config(
